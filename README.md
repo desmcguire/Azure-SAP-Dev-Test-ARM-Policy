@@ -1,2 +1,2 @@
 # Azure-SAP-Dev-Test-ARM-Policy
-Azure Policy DEfinitions for SAP Dev Test
+Azure Policy Definitions for SAP Dev Test
